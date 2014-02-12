@@ -1,0 +1,23 @@
+* { padding: 0; margin: 0; }
+
+
+.container {
+	width: 600px;
+	margin: 0 auto;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+
+.container {
+	overflow: hidden;
+	padding: 20px 0;
+} 
+
+
+.Link{
+	width: 20%;
+	padding: 10px;
+	border: 1px solid black;
+	float: left;
+}
