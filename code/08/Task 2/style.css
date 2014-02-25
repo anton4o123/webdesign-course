@@ -1,0 +1,15 @@
+.images {
+	overflow: hidden;
+}
+
+li {
+	list-style: none;
+}
+
+.gallery ul li {
+	float: left;
+}
+
+img {
+	width: 100px;
+}
