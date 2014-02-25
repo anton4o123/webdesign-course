@@ -1,0 +1,31 @@
+a {
+	text-decoration: none;
+	background-color: orange;
+}
+
+a:hover {
+	background-color: pink;
+}
+
+li {
+	list-style: none;
+	float: left;
+	padding: 5px;
+}
+
+.menu ul{
+	margin: 0;
+	padding: 0;
+	float: left;
+	display: none;
+}
+
+.menu li:hover > ul {
+	display: inline;
+	position: fixed;
+}
+
+.content {
+	clear: both;
+	background-color: green;
+}
