@@ -129,6 +129,14 @@ h2 {
 	padding:0 0 20px 0;
 }
 
+.common_content p{
+	padding: 0 0 10px 0;
+}
+
+.common_content .img{
+	display:inline;
+}
+
 .left_side_bar{
 	width:23%;
 	float:left;
@@ -168,8 +176,6 @@ h2 {
 	text-decoration:none;
 }
 
-
-/*----start footer content----*/
 #footer{
 	clear:both;
 	margin-top:18px;
@@ -191,5 +197,3 @@ h2 {
 	color: #81c266;
 	text-decoration:underline;
 }
-
-/*----end footer content----*/
